@@ -1,0 +1,61 @@
+Server?
+Waiter will take order - request 
+   - serve food        - response
+   
+Node JS 
+--------
+1. Its a JS Runtime ( Not a framework/Library)
+2. Runs on crome v8 Engine
+3. Written c++
+4. To develop Server-Side Application in JS.
+
+Why to use Node Js?
+
+1.Fast & Highly scalable 
+2.Asynchronous & Non-Blocking
+3.Light weight and Efficient to create HTTP Server 
+4.Same JS Programming language for both client & Server.
+5.Very Popular for server - side application develop.
+
+
+Module:
+collection JS File.
+Each JS file have collection of methods, and each method can have parameter.
+
+
+Node JS - collection of Module:
+3 Types of Modules 
+1.In-build Modules / core
+2.3rd Party Modules 
+4.Custom Modules: 
+
+1.Core Modules 
+  File System/FS 
+  OS
+  Path
+  http
+2.3rd Party Modules
+  express 
+  mongodb
+  mongoose
+  url 
+  mysql
+
+NPM
+1.Centralized Repo for JS Library
+2.used to install 3rd party modules
+3.Installed Module - inside node_module folder
+
+
+  
+
+
+
+
+>npm init -y
+
+
+
+
+
+ 

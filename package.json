@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-7pm-july",
+  "version": "1.0.0",
+  "description": "\"# NodeJS-7PM-July2021\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narasimhareddyprostack/NodeJS-7PM-July2021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narasimhareddyprostack/NodeJS-7PM-July2021/issues"
+  },
+  "homepage": "https://github.com/narasimhareddyprostack/NodeJS-7PM-July2021#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
