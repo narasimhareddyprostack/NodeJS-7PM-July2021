@@ -19,7 +19,7 @@ Why to use Node Js?
 
 
 Module:
-collection JS File.
+collection JS Files.
 Each JS file have collection of methods, and each method can have parameter.
 
 
@@ -34,7 +34,7 @@ Node JS - collection of Module:
   OS
   Path
   http
-2.3rd Party Modules
+2.3rd Party Modules - npmjs.org
   express 
   mongodb
   mongoose
@@ -47,14 +47,22 @@ NPM
 3.Installed Module - inside node_module folder
 
 
-  
-
-
-
-
 >npm init -y
 
 
+Node JS - Javascript Runtime Environment
+NPM - online Repo for Node js package/modules.
+
+Express - is web framework for Node JS Applications.
+
+Angular  - is a framework for  design SPA
+React - React is open-source, front-end , JS Library for buidling UI.
+
+
+
+Required Software 
+1.Node JS 
+2.Mongo DB  s/w 
 
 
 

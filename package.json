@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/narasimhareddyprostack/NodeJS-7PM-July2021#readme",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "mongodb": "^4.0.1"
+  },
+  "devDependencies": {}
 }
