@@ -1,0 +1,18 @@
+What is Express ?
+
+ - Node JS Web Framework. 
+ - opensource Framework developed and maintained by Node JS Foundation.
+ - Express is minimal , fast and flixible node js Web framework 
+   that provides set of featurs for web development.
+-  impliment Routing, HTTP Server, Protocol, Process, URL - express 
+
+-  npm install express 
+
+*****Hapi Js - best alternative for exprss 
+
+Why Exprss ?
+
+- Easily set the Backend API 
+- It is very flexible 
+
+
