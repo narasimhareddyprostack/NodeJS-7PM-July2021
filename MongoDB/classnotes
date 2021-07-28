@@ -1,0 +1,55 @@
+SQL - Relation Database Management Systemm
+-- we are storing data in the form of tables(row and colurms)
+-- schema based 
+-- Memory wastage very high 
+
+
+Problem Statement 
+--------------------
+-- new Methods to manage the flood of data 
+-- alternative to Relation Database Management System - SQL Database
+-- different from traditional Database's 
+
+What is Database?
+-physical data container 
+-Tables -
+-rows and cols
+
+Mongo DB - NOSQL Database 
+--- open-source, document based database Management System tool 
+    that store data in JSON-like format.
+
+What is JSON?
+----------------
+
+No SQL - Mongo Db, cassandra, 
+
+
+download and install mongodb - 
+
+How to set your class path?
+------------------------------------
+
+
+Features of mongodb
+--------------------------
+Fast
+JSON Like - 
+Less Memory Wastage 
+Schema less Database(Optional)
+Highly - scalable , flexible and distributed
+Application Driven Database 
+------------------------------------------------------
+Database - physical Data Container 
+collection - group of document's
+document - key:value pairs 
+
+-------------------------------------------------------
+create table emp( name varchar(32), sal char(4))
+
+{
+name:"Jayanth",
+sal:
+
+}
+--------------------------------------------------------
