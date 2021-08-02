@@ -1,0 +1,30 @@
+API?
+
+Backend Developer - Develop API 
+API - function
+
+===================================
+Develop  User Login?
+Flipkart User - 
+
+1)Create User Account  - Registration/Signup
+2)Login Account        - Login/Sign in 
+3)Get User Accouont    - Get User Details
+
+
+Node JS & Express - Develop API 
+How to initlialize Node JS Project
+
+>npm init
+
+or 
+>npm init -y
+
+>npm i express
+
+create App.js
+----------------
+Step 1: create express app and listen port 
+
+
+
