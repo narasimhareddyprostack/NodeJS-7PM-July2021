@@ -10,6 +10,8 @@ router.get("/", (req, res) => {
 })
 /*
 Name : localhost:5000/user/login
+Method:POST
+Fields: email, password
 */
 
 router.post("/login", (req, res) => {
@@ -20,6 +22,8 @@ router.post("/login", (req, res) => {
 
 /*
 Name : localhost:5000/user/registration
+Method:POST
+Fields: name,  email, password
 */
 router.post("/registraion", (req, res) => {
     res.send(`<h1>Registration User - Request</h1>`)

@@ -28,3 +28,20 @@ Step 1: create express app and listen port
 
 
 
+HTTP methods
+
+
+--- get 
+--- POST 
+--- PUT 
+--- Delete
+
+
+https://www.amazon.in/ap/register
+localhost:5000/user/registration
+
+
+Node Js 
+
+core Module - fs,os, http,
+3rd party module: bcryptjs, jwt, express, mongoose, mongodb
